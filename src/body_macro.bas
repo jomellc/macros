@@ -1,6 +1,6 @@
-Sub Body()
+Sub IEEE_Standard_Body()
 '
-' Body Macro
+' This macro formats text to the IEEE double column standard
 '
 '
     Selection.Font.Name = "Times New Roman"
